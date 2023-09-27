@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/hw3579/count.svg)
+
+![hw3579's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+
+
+
+
 <!--
 **hw3579/hw3579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
