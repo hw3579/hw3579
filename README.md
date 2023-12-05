@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 # 近期计划
 - 继续更新维护自己的nonebot-gpt4项目
-- 发布基于nonebot的大学录取情况的查询系统
+- ~~发布基于nonebot的大学录取情况的查询系统~~ 没书读了:(
 
 # 远期计划
-- 仓库里的三国杀->尝试使用electron架构进行重写 实现跨平台的多端使用
+- 仓库里的三国杀->~~尝试使用electron架构进行重写~~ 升级到QT6并调试出安卓版本 实现跨平台的多端使用
